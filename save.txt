@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Save</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg fixed-top">
+		<a href="#" class="navbar-brand"><img src="img/logosave.png" alt=""></a>
+		<div class="collapse navbar-collapse">
+			<div class="navbar-nav">
+				<div class="nav-item">
+					<a class="nav-link" href="">réparer</a>
+				</div>
+				<div class="nav-item">
+					<a class="nav-link" href="">vendre</a>
+				</div>
+				<div class="nav-item">
+					<a class="nav-link" href="">acheter</a>
+				</div>
+				<div class="nav-item">
+					<a class="nav-link" href="">boutiques</a>
+				</div>
+				<div class="nav-item">
+					<a class="nav-link" href="">le blog</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="menu">
+							<a href="#"><img src="img/cube.png" alt=""></a><br>
+							<span><a href="#" class="suivi">Suivi</a></span>
+						</div>
+				
+	</nav>
+
+<!-- header-->
+<header class="header">
+	<div class="overlay">
+		<div class="container">
+			<div class="description">
+				<h1>Nous réparons tous vos appareils électroniques.</h1>
+				<p>Réparation Express et Garantie</p>
+				<input type="text" class="search" value="" placeholder="Entrez le modèle de votre appareil"/>
+			</div>
+		</div>
+	</div>
+</header>
+
+<main>
+<div class="works">
+	<h2 class="title">Comment ça marche ?</h2>
+	<div class="container">
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/ordi.png" alt="" class="image">
+			<h3 class="">Commandez en ligne</h3>
+			<p class="">Sans vous déplacer, où que vous soyez</p>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/tablette.png" alt="" class="image tab">
+			<h3 class="">Suivi de réparation en ligne</h3>
+			<p class="">100% gratuit et en temps réel</p>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/smartphone.png" alt="">
+			<h3 class="">Votre appareil est réparé</h3>
+			<p class="desc">Vous pouvez maintenant profiter du reste</p>
+		</div>
+	</div>
+	</div>
+</div>
+
+<div class="types">
+		<h2>Quel type d'appareil souhaitez-vous réparer ?</h2>
+		<p>Nous réparons plus de 1000 appareils, sélectionnez le vôtre !</p>
+		<div class="contenair">
+		<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="item img-one">
+				<div class="over">
+					<span class="name">Smartphone</span>
+					<span class="des">Apple, Samsung, Sony... et plus encore !</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="item img-two">
+				<div class="over">
+					<span class="name">Tablette</span>
+					<span class="des">Tous les iPad et Samsung Galaxy</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="item img-three">	
+				<div class="over">
+					<span class="name">Ordinateur</span>
+					<span class="des">Du MacBook Air 11" au Pro Retina 13"</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="item img-four">
+				<div class="over">
+					<span class="name">Console</span>
+					<span class="des">Nintendo 3DS, 3DS XL, New 3DS et plus...</span>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div class="experts">
+	<h2>Le Service Save, c'est quoi ?</h2>
+	<p class="subtitre">Nous nous dépassons au quotidien pour vous offrir le meilleur service.</p>
+	<div class="container">
+	<div class="row quality">
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/outils.PNG" alt="" class="outils">
+			<h4>Pièces détachées et équipement de qualité supérieure</h4>
+			<p class="desc">Nous utidivsons les meilleurs outils du marché : pièces de quadivté supérieure !</p>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/Capture.png" alt="">
+			<h4 class="title">Des experts passionnés par leur métier</h4>
+			<p class="desc"">Nos réparateurs certifiés sont avant tout des technophiles passionnés de réparation.</p>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<img src="img/pouce.PNG" alt="" class="pouce">
+			<h4 class="title">Toutes les réparations garanties pendant 1 an</h4>
+			<p class="desc">Votre appareil bénéficie d'une garantie d'un an quelle que soit la réparation effectuée !</p>
+		</div>
+	</div>
+	</div>
+	<a class="btn btn-red btn-square" href="/fr/fr/reparation"">Réparer un appareil</a>
+</div>
+
+<div class="twitter">
+		<h2>ils nous ont fait confiance !</h2>
+		<p class="subtitre">Ce que nos clents disent de nous :</p>
+<div class="contenair">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/steph.png" alt=""></a></div>
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/chatb.png" alt=""></a></div>
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/simon.png" alt=""></a></div>
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/vince.png" alt=""></a></div>
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/audrey.png" alt=""></a></div>
+			<div class="col-lg-4 col-md-4 col-sm-12 space"><a href="#"><img src="img/laurent.png" alt=""></a></div>
+		</div>
+	</div>
+		<a class="affiche" href="#">Afficher plus d'un avis</a>
+		<div class="hide">
+			
+		</div>
+	</div>
+
+	<div class="popular">
+		<h2>Les réparations les plus populaires</h2>
+		<p class="subtitre">Top 3 des réparations par appareil</p>
+		<div class="contenair">
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(21).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy S4</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul> 
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails.jpg" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy Note II</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(20).png" alt=""></a>
+					<div class="descrip"><a href="" class="name">iPhone 5C</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ip4s).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 4S</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ip5s).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 5S</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails.png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy S3</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ip5).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 5</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(sgn3).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy Note 3</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Connecteur de charge</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(6).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 6</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ip4).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 4</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ipd2).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad 2</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">LCD</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ipd3).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad 3</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(GT).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy Tab 2 7.0</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(12).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad Air</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ipd2).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad Mini 2</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Bloc Ecran</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ipd4).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad 4</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(iP).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 7</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Vitre incroyable</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(ip7).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPhone 7 plus</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Appareil Photo avant</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(16).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad Mini 1</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Connecteur de charge</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(S).jpg" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Sony Xperia Z3</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Face Arrière</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(SGN).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy Note 10.1</a>
+						<ul>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Batterie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(SGM).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">Samsung Galaxy S3 Mini</a>
+						<ul>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Diagnostic</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row"><a href="" class="image"><img src="img/thumbnails(19).png" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad Air 2</a>
+						<ul>
+							<li><a href="">Bloc Ecran</a></li>
+							<li><a href="">Batterie</a></li>
+							<li><a href="">Connecteur de charge</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-12">
+				<div class="row">
+					<a href="" class="image"><img src="img/thumbnails(2).jpg" alt=""></a>
+					<div class="descrip">
+						<a href="" class="name">iPad Mini 3</a>
+						<ul>
+							<li><a href="">Vitre</a></li>
+							<li><a href="">Diagnostic</a></li>
+							<li><a href="">LCD</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		<a class="affiche" href="#">Afficher plus de réparations</a>
+
+	</div>
+		
+</main>
+<footer>
+	<div class="footer-top">
+	<div class="contenair">
+		<div class="row haut">
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<div class="bloc">
+					<a class="save-logo" href="#"><img src="img/logoblanc.png" alt=""></a>
+					<div class="slogan">Never let you down</div>
+					<div class="social-links">
+						<a href="#"><img src="img/facebook.png" alt=""></a>
+						<a href="#"><img src="img/twitter.png" alt=""></a>
+						<a href="#" ><img src="img/instagram.png" alt=""></a>
+						<a href="#"><img src="img/linkedin.png" alt=""></a>
+					</div>
+						<div class="app--footer--switch">
+							<a href=""><div class="row langues">
+								<span><img src="img/FR%402x.png" alt="" class="pic"></span>
+								<span><h4>France</h4></span>
+								<span><img src="img/chevronbas.png" alt="" class="chev"></span>
+							</div></a> 
+							<a href=""><div class="row langues">
+								<span><img src="img/chat.png" alt="" class="picd"></span>
+								<span><h4>Français</h4></span>
+								<span><img src="img/chevronbas.png" alt="" class="chevb"></span>
+							</div></a> 
+						</div>
+					</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<span><h3>Nos réparations</h3></span>
+				<ul>
+					<li><a href="">Smartphone</a></li>
+					<li><a href="">Tablette</a></li>
+					<li><a href="">Ordinateur</a></li>
+					<li><a href="">Console</a></li>
+				</ul>
+		</div>
+			<div class="col-lg-2 col-md-2 col-sm-12"><span><h3>Services</h3></span>
+				<ul>
+					<li><a href="">Réparation</a></li>
+					<li><a href="">Suivi de réparation</a></li>
+					<li><a href="">Acheter un appareil</a></li>
+					<li><a href="">Trouver un magasin</a></li>
+					<li><a href="">Sercice B2B</a></li>
+				</ul></div>
+			<div class="col-lg-2 col-md-2 col-sm-12"><span><h3>A propos de Save</h3></span>
+				<ul>
+					<li><a href="">Notre manifeste</a></li>
+					<li><a href="">Réparation courrier</a></li>
+					<li><a href="">Réparation boutique</a></li>
+					<li><a href="">FAQ</a></li>
+				</ul></div>
+			<div class="col-lg-2 col-md-2 col-sm-12"><span><h3>Villes</h3></span>
+				<ul>
+					<li><a href="">marseille</a></li>
+					<li><a href="">Paris</a></li>
+					<li><a href="">Lille</a></li>
+					<li><a href="">Lyon</a></li>
+					<li><a href="">Voir toutes les villes</a></li>
+				</ul></div>
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<span><h3>L'entreprise</h3></span>
+				<ul>
+					<li><a href="">L'équipe</a></li>
+					<li><a href="">Carrière</a></li>
+					<li><a href="">Devenir sauveteur</a></li>
+					<li><a href="">Nous contacter</a></li>
+				</ul></div>
+		</div>
+	</div>
+	<hr>
+ <div class="container">
+    <div class="row mentions">
+        <div class="company">
+            <span>
+              © Save
+            </span>
+            <p>
+            	<a href="">Termes et conditions générales</a>
+            	<a href="">informations légales</a>
+            	<a href="">Termes et conditions de vente</a>
+            	<a href="">Cookies</a>
+            </p>
+        </div>
+
+        <div class="row payments">
+
+          <div class="payments-icons">
+          	<p>Cartes acceptées</p>
+            <a href="#" class="pay-icon"><img src="img/visa.png" alt="Visa"></a>  
+			<a href="#" class="pay-icon"><img src="img/mastercard.png" alt="Mastercard"></a>  
+			<a href="#" class="pay-icon"><img src="img/american.png" alt="American"></a> </div> 
+            <div class="icon-right"><a href="#" class="pay-norton"><img src="img/norton.png" alt="Norton"></a></div>  
+         
+	 </div> 
+</div>	 
+</div>
+</div>  
+	 <div class="footer-bottom">
+	<div class="contenair">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-12"><h3 class="col-title">Réparation téléphone Portable</h3></div>
+			<div class="col-lg-4 col-md-4 col-sm-12"><h3 class="col-title">Réparation Tablette</h3></div>
+			<div class="col-lg-2 col-md-2 col-sm-12"><h3 class="col-title">Réparation Ordinateur</h3></div>
+		</div>
+		<div class="row">
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<span><h4>Apple</h4></span>
+				<ul>
+					<li><a href="">iPhone 5C</a></li>
+					<li><a href="">iPhone 4S</a></li>
+					<li><a href="">iPhone 5S</a></li>
+					<li><a href="">iPhone 5</a></li>
+					<li><a href="">iPhone 6</a></li>
+					<li><a href="">iPhone 4</a></li>
+				</ul>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<span><h4>Samsung</h4></span>
+				<ul>
+					<li><a href="">Galaxy S4</a></li>
+					<li><a href="">Galaxy Note ii</a></li>
+					<li><a href="">Galaxy S3</a></li>
+					<li><a href="">Galaxy Note 3</a></li>
+					<li><a href="">Galaxy Note 10.1</a></li>
+					<li><a href="">Galaxy S3 Mini</a></li>
+				</ul>
+		</div>
+			<div class="col-lg-2 col-md-2 col-sm-12"><span><h4>Sony</h4></span>
+				<ul>
+					<li><a href="">Xperia Z3</a></li>
+					<li><a href="">Xperia Z3 Compact</a></li>
+					<li><a href="">Xperia Z1 Compact</a></li>
+					<li><a href="">Xperia Z5 Compact</a></li>
+					<li><a href="">Xperia U</a></li>
+					<li><a href="">Xperia Z5</a></li>
+				</ul></div>
+
+			<div class="col-lg-2 col-md-2 col-sm-12"><span><h4>Apple</h4></span>
+				<ul>
+					<li><a href="">iPad 2</a></li>
+					<li><a href="">iPad 3</a></li>
+					<li><a href="">iPad Mini 2</a></li>
+					<li><a href="">iPad Air</a></li>
+					<li><a href="">iPad 4</a></li>
+					<li><a href="">iPad Mini 4</a></li>
+				</ul></div>
+
+				<div class="col-lg-2 col-md-2 col-sm-12"><span><h4>Samsung</h4></span>
+				<ul>
+					<li><a href="">Galaxy Tab 2 7.0</a></li>
+					<li><a href="">Galaxy Tab 3 Lite 7.0</a></li>
+					<li><a href="">Galaxy Tab 2 10.1</a></li>
+					<li><a href="">Galaxy Note 10.1 (2014 Edition)</a></li>
+					<li><a href="">Galaxy Tab 3 10.1</a></li>
+					<li><a href="">Galaxy Tab 3 7.0</a></li>
+				</ul></div>
+			<div class="col-lg-2 col-md-2 col-sm-12">
+				<span><h4>Macbook</h4></span>
+				<ul>
+					<li><a href="">Air 13"</a></li>
+					<li><a href="">Pro Unibody 13"</a></li>
+					<li><a href="">Air 11"</a></li>
+					<li><a href="">Pro Retina 13"</a></li>
+				</ul></div>
+
+		</div>
+	</div>
+	</div>
+</footer>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

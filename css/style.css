@@ -1,0 +1,250 @@
+.navbar{
+	background: white;
+}
+
+.navbar-nav li{
+	margin-left: 60px;
+	font-size: 15px;
+	padding-top: 3px;
+	text-transform: uppercase;
+}
+
+.navbar{
+	background-color: hsla(0,0%,100%,.97);
+    	box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
+    	text-align: center;
+}
+
+
+
+.header{
+	background-image: url('../img/home.jpg');
+}
+
+.overlay{
+	position: absolute;
+	min-height: 97.5%;
+	min-width: 100%;
+	left: 0;
+	top: 0;
+	background-color: rgba(0,0,0,.3);
+	
+}
+
+.search-holder{
+	border-radius: 5px;
+	width: 480px;
+	height: 60px;
+	background-color: #fff;
+	position: absolute;
+	z-index: 3;
+	top: 400px;
+	left: 450px;
+	bottom: auto;
+	overflow: hidden;
+}
+
+h4 a{
+	text-decoration: none;
+}
+
+
+
+.mp{
+	border: 1px solid gray;
+	border-right: 5px;
+	background-color: white;
+	
+	font-size: 10px;
+}
+input{
+	width: 400px;
+	height: 60px;
+	padding: 0px 10px 0px 20px;
+	font-size: 20px;
+	color: #343536;
+}
+
+ion-icon{
+	font-size: 32px;
+	margin-left: 20px;
+	color: #343536;
+	margin-top: 20px;
+}
+.p1{
+	font-size: 50px;
+	color: white;
+	margin-top: 270px;
+}
+
+.p2{
+	color: white
+}
+
+
+.des{
+	background: rgba(0,0,0,0.2);
+	color: #fff;
+	text-align: center;
+	border-top: 1px;
+	padding: 15px;
+	font-size: 20px;
+	position: absolute;
+	width: 91%;
+	bottom: 0px;
+}
+
+.b1{
+	background-color: #f6f6f6;
+	
+}
+
+.b2 a{
+	color: black;
+	font-size: 13px;
+	margin-left: 10px;
+}
+.team .item:hover{
+	height: 100%;
+	background: transparent;
+	position: absolute;
+	width: 89%;
+	padding: 5em;
+	top: 0;
+	border-top-right-radius: 0;
+}
+
+.btn{
+	background-color: #ff584b;
+	margin-top: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 90px;
+	padding-right: 90px;
+	font-size: 16px;
+
+}
+
+
+.repair-link{
+	font-size: 15px;
+}
+
+
+.b2{
+	margin-left: -3px;
+	margin-top: -3px;
+	margin-bottom: -3px;
+}
+
+
+.footer-top{
+	position: relative;
+	padding: 160px;
+	height: 600px;
+	background-image: url('../img/pattern-footer.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.b3{
+	font-size: 15px;
+	border-radius: 5px;
+	height: 40px;
+	width: 110px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+
+.plus{
+	color: white;
+	font-size: 14px;
+	dissplay: inline;
+}
+
+hr{
+	color: white;
+}
+
+
+.menu{
+    width: 120px;
+    height: 60px;
+    padding: 0;
+    border-radius: 5px;
+    border: 1px solid #eaeaea;
+}
+
+hr{
+	display: block;
+    border-bottom: 0;
+    border-top: 1px solid #4f4f4f;
+    margin-left: -12px;
+    margin-top: 35px;
+}
+
+
+.social-links a{
+	display: inline-block;
+	text-align: center;
+	position: relative;
+    width: 30px;
+    height: 30px;
+    margin-right: 3px;
+
+    border: 2px solid hsla(0,0%,100%,.3);
+    border-radius: 50%;
+    color: #fff;
+}
+.social-links img{
+	position: absolute;
+    top: 24%;
+    left: 24%;
+}
+
+.social-links a:hover{
+	border-color: #fff;
+}
+
+
+.footer-bottom{
+
+	background-color: #272727;
+    color: #fff; 
+    margin-top: -176px;
+    width: 2400px;
+    padding: 100px 100px;
+    margin-left: -150px;
+    margin-right: -140px;
+}
+
+
+.footer-top h3, .footer-bottom h3{
+	margin-top: 20px;
+    font-size: 15px;
+}
+.footer-bottom h4{
+	font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer-top ul, .footer-bottom ul{
+	padding-left: 17px;
+}
+
+.footer-top li, .footer-bottom li{
+	margin-bottom: 10px;
+	list-style-image: url(../img/pucered.png);
+
+}
+.footer-bottom a{
+	color: #939393;
+}
+.haut a, .footer-bottom a{
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 12px;
+}
+
